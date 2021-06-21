@@ -15,14 +15,15 @@
 
 #### Some Http methods
 ```
-**GET**: It retrives data from the server
-**POST**: Submits data to the server
-**PUT**: Creates/Updates data on the  server
-**DELETE**: Deletes data from server
-**OPTION**: Returns all the supported methods on that particular site
-**TRACE**:Echo's the recived request
-**CONNECT**:Converts request connection to TCP/IP
-**HEAD**:Retrives data without response body
+###### Some Http methods
+GET: It retrives data from the server
+POST: Submits data to the server
+PUT: Creates/Updates data on the  server
+DELETE: Deletes data from server
+OPTION: Returns all the supported methods on that particular site
+TRACE:Echo's the recived request
+CONNECT:Converts request connection to TCP/IP
+HEAD:Retrives data without response body
 ```
 
 ***Here GET, OPTIONS, TRACE, HEAD methods are safe.
