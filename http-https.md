@@ -1,17 +1,17 @@
 # http & https 
 
 #### What is http?
->Hyper Text Transfer Protocol
->It is stateless Application layer protocol Used to communicate between client and server 
->Every request are completly INDEPENDENT. Programming, Local storage, cookies, sessions used to create enhanced user experience.
->Default port is 80
->Here data are transfered in clear text and thus http are not preffered for banking etc websites
+* Hyper Text Transfer Protocol
+* It is stateless Application layer protocol Used to communicate between client and server 
+* Every request are completly INDEPENDENT. Programming, Local storage, cookies, sessions used to create enhanced user experience.
+* Default port is 80
+* Here data are transfered in clear text and thus http are not preffered for banking etc websites
 
 #### What is https?
->Hyper Text Transfer Protocol secured
->Default port id 443
->The communication protocol is secured using TLS or SSL
->This is also known as **http over TLS** or **http over ssl**
+* Hyper Text Transfer Protocol secured
+* Default port id 443
+* The communication protocol is secured using TLS or SSL
+* This is also known as **http over TLS** or **http over ssl**
 
 #### Some Http methods
 ```
