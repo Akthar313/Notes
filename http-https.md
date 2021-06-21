@@ -56,7 +56,7 @@ Some status code to remember
 4. Response Headers --> Server, set-cookie, www-Authentication etc
 5. Security Headers --> content-security-policy, strict-transport-security, referrer-policy
 
-###URL-UNIFORM RESOURCE LOCATOR
+### URL-UNIFORM RESOURCE LOCATOR
 
 ![URL STRUCTURE](https://academy.hackthebox.eu/storage/modules/35/url_structure.png)
 
