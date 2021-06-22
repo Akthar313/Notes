@@ -9,11 +9,15 @@ http - hyper text transport protocol
 https - hyper text transport protocol secure
 IP - Internet Protocol
 OSI - open systems interconnection
+TCP - Transmission Control Protocol
+CVE - Common Vulnerabilities and Exposures
+UDP - User Datagram Protocol
 FTP - File transfer protocol
 SSH - secure shell
 smtp - simple mail transfer protocol
 DNS - Domain name system
-
+RDP - Remote Desktop Protocol
+OSINT - Open Source Intelligence
 ```
 
 
