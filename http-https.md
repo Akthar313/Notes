@@ -57,6 +57,25 @@ Some status code to remember
 4. Response Headers --> Server, set-cookie, www-Authentication etc
 5. Security Headers --> content-security-policy, strict-transport-security, referrer-policy
 
+### Http Flow
+![URL STRUCTURE](https://academy.hackthebox.eu/storage/modules/35/HTTP_Flow.png)
+1. User enters URL in broswer.For eg:example.com
+2. Browser sends it to DNS to resolve the IP
+3. DNS resolves the IP and Sends Back the IP of the Domain to the browser
+4. Browser requests IP:80 to Web server
+5. Web server responds and sends 200 ok
+
+### Https Flow
+![URL STRUCTURE](https://academy.hackthebox.eu/storage/modules/35/HTTPS_Flow.png)
+1. Browser tries to resolve IP
+2. Once IP is resolved, Browser sends the IP:80 to the web hosting server 
+3. Web server notes that its http request and hence it will be redirected to port 443 [This is done via 301 Moved permenently Response code]
+4. CLient sends "CLIENT HELLO" packet giving info about client
+5. Server sends "SERVER HELLO" packet giving info about server and followed by **Key exchange**
+6. Client verifies the key and sends on of its own and then handshake is done!
+7. After succesfull ```Handshake```, a normal connection is continued with Encryption. 
+
+
 ### URL-UNIFORM RESOURCE LOCATOR
 
 ![URL STRUCTURE](https://academy.hackthebox.eu/storage/modules/35/url_structure.png)
