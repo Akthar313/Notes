@@ -9,13 +9,12 @@
 
 #### What is https?
 * Hyper Text Transfer Protocol secured
-* Default port id 443
+* Default port is 443
 * The communication protocol is secured using TLS or SSL
 * This is also known as **http over TLS** or **http over ssl**
 
 #### Some Http methods
 ```
-###### Some Http methods
 GET: It retrives data from the server
 POST: Submits data to the server
 PUT: Creates/Updates data on the  server
