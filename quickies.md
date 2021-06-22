@@ -5,8 +5,12 @@
 
 ### Shortforms
 ```
+API - Application Programming Interface
+CA - Certificate Authority 
+CMS - Content Management System
 CVE - Common Vulnerabilities and Exposures
 DNS - Domain name system
+EMAIL - Electronic Mail
 FTP - File transfer protocol
 HTTP - hyper text transport protocol
 HTTPS - hyper text transport protocol secure
@@ -14,12 +18,14 @@ IP - Internet Protocol
 OSI - open systems interconnection
 OSINT - Open Source Intelligence
 RDP - Remote Desktop Protocol
-SSH - secure shell
+RFC - Request FOr Comments
 SMTP - simple mail transfer protocol
+SSH - secure shell
 SSL - Secure Socket Layer
 TCP - Transmission Control Protocol
 TLS - Transport Layer Security
 UDP - User Datagram Protocol
+URL - Uniform Resource Locator
 ```
 
 
