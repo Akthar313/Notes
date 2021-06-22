@@ -1,7 +1,7 @@
 ### Contents
-1. [ShortForms](https://github.com/Akthar313/Notes/new/main#shortforms)
-2. [Comman Ports](https://github.com/Akthar313/Notes/new/main#comman-ports)
-3. [TCP/IP vs OSI model](https://github.com/Akthar313/Notes/new/main#tcpip-vs-osi-model)
+1. [ShortForms](https://github.com/Akthar313/Notes/blob/main/quickies.md#shortforms)
+2. [Comman Ports](https://github.com/Akthar313/Notes/blob/main/quickies.md#comman-ports)
+3. [TCP/IP vs OSI model](https://github.com/Akthar313/Notes/blob/main/quickies.md#tcpip-vs-osi-model)
 
 ### Shortforms
 ```
