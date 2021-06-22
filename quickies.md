@@ -5,19 +5,21 @@
 
 ### Shortforms
 ```
-http - hyper text transport protocol
-https - hyper text transport protocol secure
+CVE - Common Vulnerabilities and Exposures
+DNS - Domain name system
+FTP - File transfer protocol
+HTTP - hyper text transport protocol
+HTTPS - hyper text transport protocol secure
 IP - Internet Protocol
 OSI - open systems interconnection
-TCP - Transmission Control Protocol
-CVE - Common Vulnerabilities and Exposures
-UDP - User Datagram Protocol
-FTP - File transfer protocol
-SSH - secure shell
-smtp - simple mail transfer protocol
-DNS - Domain name system
-RDP - Remote Desktop Protocol
 OSINT - Open Source Intelligence
+RDP - Remote Desktop Protocol
+SSH - secure shell
+SMTP - simple mail transfer protocol
+SSL - Secure Socket Layer
+TCP - Transmission Control Protocol
+TLS - Transport Layer Security
+UDP - User Datagram Protocol
 ```
 
 
