@@ -5,7 +5,7 @@
 * It is stateless Application layer protocol Used to communicate between client and server 
 * Every request are completly INDEPENDENT. Programming, Local storage, cookies, sessions used to create enhanced user experience.
 * Default port is 80
-* Here data are transfered in clear text and thus http are not preffered for banking etc websites
+* Here data are transfered in clear text and thus http are not preffered for banking websites etc
 
 #### What is https?
 * Hyper Text Transfer Protocol secured
@@ -57,7 +57,7 @@ Some status code to remember
 5. Security Headers --> content-security-policy, strict-transport-security, referrer-policy
 
 ### Http Flow
-![URL STRUCTURE](https://academy.hackthebox.eu/storage/modules/35/HTTP_Flow.png)
+![HTTP FLOW](https://academy.hackthebox.eu/storage/modules/35/HTTP_Flow.png)
 1. User enters URL in broswer.For eg:example.com
 2. Browser sends it to DNS to resolve the IP
 3. DNS resolves the IP and Sends Back the IP of the Domain to the browser
@@ -65,7 +65,7 @@ Some status code to remember
 5. Web server responds and sends 200 ok
 
 ### Https Flow
-![URL STRUCTURE](https://academy.hackthebox.eu/storage/modules/35/HTTPS_Flow.png)
+![HTTPS FLOW](https://academy.hackthebox.eu/storage/modules/35/HTTPS_Flow.png)
 1. Browser tries to resolve IP
 2. Once IP is resolved, Browser sends the IP:80 to the web hosting server 
 3. Web server notes that its http request and hence it will be redirected to port 443 [This is done via 301 Moved permenently Response code]
