@@ -54,6 +54,9 @@ echo a{0..5}b = a0b a1b a2b a3b a4b a5b
 
 
 RESOURCES
-![Youtube reference](https://youtu.be/mpyCeSvGh-M)
+
+![Youtube reference](https://youtu.be/mpyCeSvGh-M)    
+
+[Python RegEx](https://docs.python.org/3/howto/regex.html)
 
 
