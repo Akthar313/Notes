@@ -15,6 +15,7 @@ FTP - File transfer protocol
 HTTP - hyper text transport protocol
 HTTPS - hyper text transport protocol secure
 IP - Internet Protocol
+JSON - JavaScript Object Notation
 OSI - open systems interconnection
 OSINT - Open Source Intelligence
 RDP - Remote Desktop Protocol
