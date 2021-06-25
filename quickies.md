@@ -28,6 +28,9 @@ TLS - Transport Layer Security
 UDP - User Datagram Protocol
 URL - Uniform Resource Locator
 UTF-8 - Unicode Transformation Format 8 Bits
+VDS - Virtual Dedicated Server
+VPN - Virtual Private Network
+VPS - Virtual Private Server
 ```
 
 
