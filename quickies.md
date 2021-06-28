@@ -8,18 +8,21 @@
 API - Application Programming Interface
 CA - Certificate Authority 
 CMS - Content Management System
+CSS - Cascading Style sheet
 CVE - Common Vulnerabilities and Exposures
 DNS - Domain name system
 EMAIL - Electronic Mail
 FTP - File transfer protocol
+HTML - HyperText Markup Language
 HTTP - hyper text transport protocol
 HTTPS - hyper text transport protocol secure
 IP - Internet Protocol
 JSON - JavaScript Object Notation
 OSI - open systems interconnection
 OSINT - Open Source Intelligence
+PHP - Hypertext Preprocessor
 RDP - Remote Desktop Protocol
-RFC - Request FOr Comments
+RFC - Request For Comments
 SMTP - simple mail transfer protocol
 SSH - secure shell
 SSL - Secure Socket Layer
