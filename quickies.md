@@ -27,6 +27,7 @@ RFC - Request For Comments
 SMTP - simple mail transfer protocol
 SSH - secure shell
 SSL - Secure Socket Layer
+SQL - Structural Query Language [Name changed to Maria DB in 2015 ]
 TCP - Transmission Control Protocol
 TLS - Transport Layer Security
 UDP - User Datagram Protocol
