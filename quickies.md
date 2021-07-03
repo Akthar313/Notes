@@ -32,6 +32,7 @@ TCP - Transmission Control Protocol
 TLS - Transport Layer Security
 UDP - User Datagram Protocol
 URL - Uniform Resource Locator
+URI - Uniform Resource Identifier
 UTF-8 - Unicode Transformation Format 8 Bits
 VDS - Virtual Dedicated Server
 VPN - Virtual Private Network
