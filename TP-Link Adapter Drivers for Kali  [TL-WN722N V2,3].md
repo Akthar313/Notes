@@ -48,15 +48,25 @@ sudo modprobe 8188eu
 
 Thats it!! now to verify the drivers 
 ```
+//Here you will see phy0 or phy1 under PHY section, if NULL is shown then you may have missed in the above steps
+1. sudo airmon-ng 
+
 // this will show your wlan0 is in auto or managed mode
-1. iwconfig 
-2. sudo airmon-ng (here you will see phy0 or phy1 under PHY section, if NULL is shown then you may have missed in the above steps)
-// To change that to monito
+2. iwconfig 
+
+// To change that to monitor mode
 3. sudo airmon-ng check kill
-4. sudo airmon-ng start wlan0 //This will now start monitor mode
-5. iwconfig // you will be shown monitor mode here now 
+
+//This will now start monitor mode
+4. sudo airmon-ng start wlan0 
+
+// you will be shown monitor mode here now 
+5. iwconfig 
+
 // To verify Packet injection 
 6. sudo aireplay-ng --test wlan0
   this will show "injection is working"
+  ```
+  
   
 #### Happy Hacking
