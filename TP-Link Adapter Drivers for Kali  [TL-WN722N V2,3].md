@@ -68,5 +68,10 @@ Thats it!! now to verify the drivers
   this will show "injection is working"
   ```
   
+  ###### IF YOU FACE ERROR AFTER RESTARTING OUR PC THEN RUN THIS EVERYTIME ON LOGIN
+```
+1. sudo rmmod r8188eu.ko
+2. sudo modprobe 8188eu
+```
   
 #### Happy Hacking
