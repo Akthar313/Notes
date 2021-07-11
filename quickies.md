@@ -6,12 +6,14 @@
 ### Shortforms
 ```
 API - Application Programming Interface
+APT - Advanced Package tool 
 CA - Certificate Authority 
 CMS - Content Management System
 CSS - Cascading Style sheet
 CVE - Common Vulnerabilities and Exposures
 DNS - Domain name system
 DOM - Document Object Model
+DPKG - Debian Package
 EMAIL - Electronic Mail
 FTP - File transfer protocol
 HTML - HyperText Markup Language
