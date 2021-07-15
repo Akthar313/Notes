@@ -28,9 +28,10 @@ PHP - Hypertext Preprocessor
 RDP - Remote Desktop Protocol
 RFC - Request For Comments
 SMTP - simple mail transfer protocol
+SQL - Structural Query Language [Name changed to Maria DB in 2015 ]
 SSH - secure shell
 SSL - Secure Socket Layer
-SQL - Structural Query Language [Name changed to Maria DB in 2015 ]
+SUDO - SuperUser Do
 TCP - Transmission Control Protocol
 TLS - Transport Layer Security
 UDP - User Datagram Protocol
