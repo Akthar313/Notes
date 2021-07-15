@@ -22,7 +22,7 @@ HTTPS - hyper text transport protocol secure
 IP - Internet Protocol
 JSON - JavaScript Object Notation
 MIME - Multipurpose Internet Mail Extensions
-OSI - open systems interconnection
+OSI - Open Systems Interconnection
 OSINT - Open Source Intelligence
 PHP - Hypertext Preprocessor
 RDP - Remote Desktop Protocol
